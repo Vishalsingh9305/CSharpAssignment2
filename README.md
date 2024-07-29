@@ -1,7 +1,7 @@
 
 ## Tasks Included
 
-The `CombinedProgram.cs` file executes the following tasks in sequence:
+The `Program.cs` file executes the following tasks by the user choice:
 
 1. **Print Sum and Average of Elements of an Array**
    - **Description:** Calculates and prints the sum and average of a predefined array of integers.
