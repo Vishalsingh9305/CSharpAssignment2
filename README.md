@@ -1,6 +1,3 @@
-# Combined Array Operations Program
-
-This repository contains a C# program that combines multiple tasks related to array and matrix operations into a single `CombinedProgram.cs` file. The tasks are executed sequentially within this single program to demonstrate various operations on arrays and matrices.
 
 ## Tasks Included
 
